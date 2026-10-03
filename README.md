@@ -26,4 +26,9 @@ Set each new public repository up the same way:
 4. If GitHub Pages deploys from a release tag, add a `v*.*.*` tag rule to the
    `github-pages` environment. Without it, the deploy fails with an environment
    protection error.
-5. Add the project to the list in `profile/README.md`.
+5. If it publishes to npm under `@quickcasa`, publish the first version by hand,
+   because npm only lets a trusted publisher be added to a package that exists.
+   Then, in the package's npm settings, add a GitHub Actions trusted publisher
+   for the release workflow with only `npm stage publish` allowed. Releases are
+   then staged by CI and go live once a maintainer approves them with 2FA.
+6. Add the project to the list in `profile/README.md`.

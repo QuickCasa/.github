@@ -15,11 +15,13 @@ QuickCasa account or our servers.
   an accessibility toolbar you add to any website with one script tag. Visitors
   can change contrast, text size and spacing, underline links, highlight
   keyboard focus and reduce motion. It makes no network requests.
-  [Live demo](https://quickcasa.github.io/accessibility-widget/)
+  [Live demo](https://quickcasa.github.io/accessibility-widget/) |
+  [npm](https://www.npmjs.com/package/@quickcasa/accessibility-widget)
 - **[eslint-config](https://github.com/QuickCasa/eslint-config)**: the ESLint
   rules we hold our own JavaScript and TypeScript to, such as no `any` type,
   full-word names and braces on every `if`. It uses ESLint 10's flat config
   and leaves formatting to Prettier.
+  [npm](https://www.npmjs.com/package/@quickcasa/eslint-config)
 
 Each project is MIT licensed unless its LICENSE file says otherwise.
 

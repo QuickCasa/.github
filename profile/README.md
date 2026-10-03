@@ -22,6 +22,13 @@ QuickCasa account or our servers.
   full-word names and braces on every `if`. It uses ESLint 10's flat config
   and leaves formatting to Prettier.
   [npm](https://www.npmjs.com/package/@quickcasa/eslint-config)
+- **[rubs-calculator](https://github.com/QuickCasa/rubs-calculator)**: a RUBS
+  (ratio utility billing) calculator that splits a building's utility bill
+  across its units by occupants, square footage or bedrooms, and shows the
+  formula behind every charge. It's a TypeScript library with a calculator page
+  that runs in the browser.
+  [Calculator](https://quickcasa.github.io/rubs-calculator/) |
+  [npm](https://www.npmjs.com/package/@quickcasa/rubs-calculator)
 
 Each project is MIT licensed unless its LICENSE file says otherwise.
 

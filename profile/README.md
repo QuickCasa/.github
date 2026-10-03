@@ -16,6 +16,10 @@ QuickCasa account or our servers.
   can change contrast, text size and spacing, underline links, highlight
   keyboard focus and reduce motion. It makes no network requests.
   [Live demo](https://quickcasa.github.io/accessibility-widget/)
+- **[eslint-config](https://github.com/QuickCasa/eslint-config)**: the ESLint
+  rules we hold our own JavaScript and TypeScript to, such as no `any` type,
+  full-word names and braces on every `if`. It uses ESLint 10's flat config
+  and leaves formatting to Prettier.
 
 Each project is MIT licensed unless its LICENSE file says otherwise.
 

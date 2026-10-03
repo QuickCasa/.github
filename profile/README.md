@@ -29,6 +29,10 @@ QuickCasa account or our servers.
   that runs in the browser.
   [Calculator](https://quickcasa.github.io/rubs-calculator/) |
   [npm](https://www.npmjs.com/package/@quickcasa/rubs-calculator)
+- **[pet-profile](https://github.com/QuickCasa/pet-profile)**: renters make a
+  pet profile PDF to send with a rental application, and landlords turn it into
+  a pet addendum for the lease. It's free, needs no account and runs entirely
+  in the browser. [Make a pet profile](https://quickcasa.github.io/pet-profile/)
 
 Each project is MIT licensed unless its LICENSE file says otherwise.
 

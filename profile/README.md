@@ -33,8 +33,15 @@ QuickCasa account or our servers.
   pet profile PDF to send with a rental application, and landlords turn it into
   a pet addendum for the lease. It's free, needs no account and runs entirely
   in the browser. [Make a pet profile](https://quickcasa.github.io/pet-profile/)
+- **[rental-inspection](https://github.com/QuickCasa/rental-inspection)**: a
+  move-in and move-out inspection app for your phone. Rate each room, add
+  photos, collect signatures and download a PDF report with the time of every
+  photo and signature. A move-out shows what changed since move-in. It works
+  offline and keeps everything on the device.
+  [Start an inspection](https://quickcasa.github.io/rental-inspection/)
 
 Each project is MIT licensed unless its LICENSE file says otherwise.
+rental-inspection is licensed under the GNU AGPL v3.0.
 
 ## Contact
 

@@ -39,6 +39,11 @@ QuickCasa account or our servers.
   photo and signature. A move-out shows what changed since move-in. It works
   offline and keeps everything on the device.
   [Start an inspection](https://quickcasa.github.io/rental-inspection/)
+- **[status-page](https://github.com/QuickCasa/status-page)**: a status page
+  that runs entirely on GitHub. A scheduled workflow checks your sites about
+  every five minutes and publishes 90 days of history and incidents to GitHub
+  Pages. Start one from the template, list your sites and turn on Pages.
+  [See it live](https://quickcasa.github.io/status-page/)
 
 Each project is MIT licensed unless its LICENSE file says otherwise.
 rental-inspection is licensed under the GNU AGPL v3.0.

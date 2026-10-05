@@ -29,6 +29,11 @@ QuickCasa account or our servers.
   that runs in the browser.
   [Calculator](https://quickcasa.github.io/rubs-calculator/) |
   [npm](https://www.npmjs.com/package/@quickcasa/rubs-calculator)
+- **[canada](https://github.com/QuickCasa/canada)**: a TypeScript library for
+  Canadian provinces and territories in English and French, postal codes, and
+  GST, HST, PST and QST rates since 2013. It adds tax to an amount or takes it
+  out of a price to the cent, and has no dependencies.
+  [npm](https://www.npmjs.com/package/@quickcasa/canada)
 - **[pet-profile](https://github.com/QuickCasa/pet-profile)**: renters make a
   pet profile PDF to send with a rental application, and landlords turn it into
   a pet addendum for the lease. It's free, needs no account and runs entirely
